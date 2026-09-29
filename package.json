@@ -1,0 +1,9 @@
+{
+  "name": "@gatsby003/security-autolink-firstscan-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@gatsby003/security-autolink-firstscan-sdk": "git+https://github.com/gatsby003/security-autolink-firstscan-sdk.git#main"
+  }
+}
