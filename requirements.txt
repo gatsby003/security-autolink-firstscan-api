@@ -1,0 +1,1 @@
+security-autolink-firstscan-sdk @ git+https://github.com/gatsby003/security-autolink-firstscan-sdk.git@main
